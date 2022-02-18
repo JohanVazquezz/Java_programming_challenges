@@ -1,2 +1,2 @@
 # Java programming challenges
->Ejercicios de practica Java, fundamentos y poo
+>basics and object oriented programming
