@@ -1,6 +1,7 @@
 //EJERCICIO: CONVERTIDOR DE HEXADECIMAL, BINARIO Y OCTAL.
-package u1convertidorbinariooctalhexa;
+//Johan Vazquez
 
+package u1convertidorbinariooctalhexa;
 import java.util.Scanner;
 
 public class U1convertidorbinariooctalhexa {
